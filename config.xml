@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.moodlemobile" version="3.3.2">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.cgiaglobal.mycgia" version="1.0.041017">
   <name>Moodle Mobile</name>
   <description>
-        Moodle Mobile official app
+        Official Mobile App for myCGIA
     </description>
-  <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+  <author href="http://kwekubright.com" email="kweku01bright@gmail.com">
+        CGIA developer team
     </author>
   <content src="index.html"/>
   <access origin="*"/>
